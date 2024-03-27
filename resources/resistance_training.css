@@ -1,0 +1,62 @@
+/*
+  white: #FFFFFF
+  red: #c62725
+  blue: #15747D
+  Background: #e6e9eb
+
+*/
+
+body {
+  background-color: #e6e9eb;
+  padding: 0 24px 36px 24px;
+}
+
+h1 {
+  text-align: center;
+  color: #c62725;
+}
+
+h2 {
+  text-align: left;
+  color: #c62725;
+}
+
+th, td {
+  border-color: #15747D;
+  border-style: solid;
+  border-width: medium;
+  padding: 6px;
+}
+
+table {
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 24px;
+}
+
+a:link {
+  color: #c62725;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #c62725;
+}
+
+a:hover {
+  color: #15747D;
+}
+
+p {
+  font-size: 24px;
+}
+
+ul {
+  font-size: 24px;
+}
+
+img {
+  border-style: solid;
+  border-color: #15747D;
+}
